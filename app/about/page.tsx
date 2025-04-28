@@ -79,7 +79,7 @@ export default function AboutPage() {
                 Our <span className="text-gradient">Story</span>
               </h2>
               <p className="text-lg text-muted-foreground mb-6">
-                Founded in 2005 by Adebayo Johnson, ArchiStudio began as a small
+                Founded in 2018 by Adebayo Johnson, ArchiStudio began as a small
                 practice with a big vision: to create architecture that
                 inspires, functions beautifully, and respects our environment
                 while celebrating Nigerian heritage.
