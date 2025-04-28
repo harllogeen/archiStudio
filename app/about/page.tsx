@@ -21,7 +21,7 @@ const teamMembers = [
     bio: "Oluwaseun specializes in commercial and mixed-use developments. His expertise in urban design has contributed to transformative projects that revitalize communities and create vibrant public spaces.",
   },
   {
-    name: "Chioma Eze",
+    name: "Moje Toluwa",
     role: "Interior Design Director",
     imageUrl: "images/archi2.jpg",
     bio: "Chioma brings a unique perspective to interior spaces, blending functionality with aesthetic excellence. Her designs create harmonious environments that enhance the user experience.",
