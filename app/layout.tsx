@@ -18,9 +18,13 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: "Archi Studio | Modern Architecture Firm",
-  description: "Award-winning architecture firm specializing in sustainable and innovative design solutions.",
-    generator: 'v0.dev'
-}
+  description:
+    "Award-winning architecture firm specializing in sustainable and innovative design solutions.",
+  generator: "v0.dev",
+  icons: {
+    icon: "images/archi1.jpg",
+  },
+};
 
 export default function RootLayout({
   children,
